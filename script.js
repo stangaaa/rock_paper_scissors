@@ -39,8 +39,7 @@ rock.addEventListener("click", () => {
         console.log("player won");
         player_wins = player_wins + 1;
     }
-    score_check()
-    ;
+    score_check();
 
 })
 
